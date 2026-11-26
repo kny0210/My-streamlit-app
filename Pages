@@ -2,4 +2,8 @@ my-streamlit-app/
 │
 ├── app.py
 ├── requirements.txt
-└── README.md
+│
+└── pages/
+    ├── 1_Vocabulary.py
+    ├── 2_Listening.py
+    └── 3_TTS.py
